@@ -1,0 +1,68 @@
+about:
+  description: Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+  license: Apache-2.0
+  homepage: https://milvus.io
+  head: 8128b53
+  archived: false
+  latestVersion: v2.6.23
+  collectedAt: 2026-09-01T04:56:54Z
+timeline:
+  created: 2019-09-16
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-28
+popularity:
+  star: 45911
+  watcher: 338
+  fork: 4212
+  release: 171
+  contributor: 341
+  pullRequest: 5299
+  issue: 16751
+language:
+  Go: 42254197
+  C++: 14621154
+  Python: 14101029
+  Shell: 337747
+  Groovy: 169975
+  C: 130960
+  HTML: 125369
+  CMake: 89971
+  Dockerfile: 41563
+  Makefile: 40794
+  ANTLR: 10721
+  Batchfile: 4555
+  Assembly: 2644
+totalLine: 71930679
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 2
+    mergedPR: 356
+    openPR: 184
+    closedIssue: 80
+    openIssue: 204
+    commit: 273
+  last90d:
+    since: 2026-06-03
+    release: 8
+    mergedPR: 1145
+    openPR: 322
+    closedIssue: 473
+    openIssue: 434
+    commit: 945
+  last180d:
+    since: 2026-03-05
+    release: 18
+    mergedPR: 2265
+    openPR: 341
+    closedIssue: 1059
+    openIssue: 495
+    commit: 1824
+  last360d:
+    since: 2025-09-06
+    release: 40
+    mergedPR: 4225
+    openPR: 355
+    closedIssue: 2064
+    openIssue: 557
+    commit: 3000
