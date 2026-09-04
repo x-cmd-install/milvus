@@ -7,13 +7,13 @@ about:
   head: 8899752
   archived: false
   latestVersion: v2.6.23
-  collectedAt: 2026-09-04T19:24:23Z
+  collectedAt: 2026-09-04T21:10:06Z
 timeline:
   created: 2019-09-16
   lastCommit: 2026-09-04
   lastRelease: 2026-08-28
 popularity:
-  star: 45973
+  star: 45974
   watcher: 339
   fork: 4226
   release: 171
@@ -39,59 +39,222 @@ recent:
   last30d:
     since: 2026-08-05
     release: 1
-    mergedPR: 380
-    openPR: 184
+    mergedPR: 382
+    openPR: 182
     closedIssue: 79
     openIssue: 223
     commit: 316
   last60d:
     since: 2026-07-06
     release: 6
-    mergedPR: 879
-    openPR: 292
+    mergedPR: 881
+    openPR: 290
     closedIssue: 253
     openIssue: 386
     commit: 674
   last90d:
     since: 2026-06-06
     release: 7
-    mergedPR: 1189
-    openPR: 330
+    mergedPR: 1191
+    openPR: 328
     closedIssue: 458
     openIssue: 464
     commit: 988
   last180d:
     since: 2026-03-08
     release: 18
-    mergedPR: 2312
-    openPR: 354
+    mergedPR: 2314
+    openPR: 352
     closedIssue: 1056
     openIssue: 529
     commit: 1867
   last360d:
     since: 2025-09-09
     release: 40
-    mergedPR: 4265
-    openPR: 368
+    mergedPR: 4267
+    openPR: 366
     closedIssue: 2063
     openIssue: 592
     commit: 3043
   last720d:
     since: 2024-09-14
     release: 83
-    mergedPR: 7902
-    openPR: 373
+    mergedPR: 7904
+    openPR: 371
     closedIssue: 4415
     openIssue: 706
     commit: 4765
 total:
   release: 171
-  mergedPR: 27215
-  openPR: 376
+  mergedPR: 27217
+  openPR: 374
   closedIssue: 15841
   openIssue: 959
   commit: 25506
 ---
+path: /home/runner/.x-repo/github.com/milvus-io/milvus
+collectedAt: 2026-09-04T21:10:27Z
+loc:
+  Go:
+    code: 1232400
+    comments: 127917
+    blanks: 187004
+    files: 3638
+  Python:
+    code: 290013
+    comments: 17271
+    blanks: 32255
+    files: 343
+  Cpp:
+    code: 234755
+    comments: 20795
+    blanks: 30049
+    files: 456
+  CHeader:
+    code: 80340
+    comments: 14807
+    blanks: 13174
+    files: 419
+  Json:
+    code: 23442
+    comments: 0
+    blanks: 0
+    files: 12
+  C:
+    code: 14136
+    comments: 91
+    blanks: 3177
+    files: 3
+  Rust:
+    code: 13772
+    comments: 317
+    blanks: 1591
+    files: 87
+  Yaml:
+    code: 8758
+    comments: 770
+    blanks: 286
+    files: 167
+  Sh:
+    code: 7147
+    comments: 1783
+    blanks: 1302
+    files: 101
+  Protobuf:
+    code: 5838
+    comments: 1023
+    blanks: 1027
+    files: 21
+  Groovy:
+    code: 3003
+    comments: 439
+    blanks: 214
+    files: 18
+  Html:
+    code: 1970
+    comments: 12
+    blanks: 82
+    files: 2
+  CMake:
+    code: 1739
+    comments: 709
+    blanks: 374
+    files: 44
+  JavaScript:
+    code: 1433
+    comments: 69
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 575
+    comments: 234
+    blanks: 203
+    files: 22
+  CppHeader:
+    code: 551
+    comments: 32
+    blanks: 88
+    files: 7
+  Makefile:
+    code: 549
+    comments: 100
+    blanks: 126
+    files: 4
+  Sql:
+    code: 231
+    comments: 23
+    blanks: 16
+    files: 1
+  Batch:
+    code: 153
+    comments: 0
+    blanks: 20
+    files: 5
+  RPMSpecfile:
+    code: 134
+    comments: 11
+    blanks: 18
+    files: 1
+  Toml:
+    code: 133
+    comments: 7
+    blanks: 14
+    files: 4
+  AssemblyGAS:
+    code: 101
+    comments: 6
+    blanks: 12
+    files: 2
+  Svg:
+    code: 70
+    comments: 0
+    blanks: 12
+    files: 2
+  Ini:
+    code: 66
+    comments: 11
+    blanks: 24
+    files: 4
+  Xml:
+    code: 38
+    comments: 0
+    blanks: 0
+    files: 1
+  Autoconf:
+    code: 34
+    comments: 1
+    blanks: 8
+    files: 5
+  Bitbake:
+    code: 5
+    comments: 6
+    blanks: 0
+    files: 2
+  ForgeConfig:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Css:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 35311
+    blanks: 11769
+    files: 217
+  Text:
+    code: 0
+    comments: 1313
+    blanks: 28
+    files: 22
+total:
+  code: 1927982
+  comments: 223948
+  blanks: 283672
+  files: 5613
 ---
 date: "2026-08-24"
 repo:
