@@ -5,19 +5,19 @@ about:
   head: bf65725
   archived: false
   latestVersion: "v2.6.23"
-  collectedAt: 2026-09-08T03:23:35Z
+  collectedAt: 2026-09-08T06:13:55Z
 timeline:
   created: 2019-09-16
   lastCommit: 2026-09-08
   lastRelease: 2026-08-28
 popularity:
-  star: 46018
+  star: 46021
   watcher: 340
   fork: 4238
   release: 171
   contributor: 343
-  pullRequest: 32590
-  issue: 16824
+  pullRequest: 32592
+  issue: 16828
 language:
   Go: 43464922
   C++: 14662535
@@ -38,60 +38,60 @@ recent:
     since: 2026-08-09
     release: 1
     mergedPR: 368
-    openPR: 184
-    closedIssue: 57
-    openIssue: 211
+    openPR: 186
+    closedIssue: 59
+    openIssue: 213
     commit: 262
   last60d:
     since: 2026-07-10
     release: 6
     mergedPR: 835
-    openPR: 285
-    closedIssue: 236
-    openIssue: 378
+    openPR: 287
+    closedIssue: 239
+    openIssue: 379
     commit: 622
   last90d:
     since: 2026-06-10
     release: 7
     mergedPR: 1171
-    openPR: 339
-    closedIssue: 446
-    openIssue: 457
+    openPR: 341
+    closedIssue: 449
+    openIssue: 458
     commit: 944
   last180d:
     since: 2026-03-12
     release: 18
     mergedPR: 2287
-    openPR: 367
-    closedIssue: 1042
-    openIssue: 535
+    openPR: 369
+    closedIssue: 1045
+    openIssue: 536
     commit: 1817
   last360d:
     since: 2025-09-13
     release: 40
     mergedPR: 4258
-    openPR: 381
-    closedIssue: 2063
-    openIssue: 594
+    openPR: 383
+    closedIssue: 2066
+    openIssue: 595
     commit: 3018
   last720d:
     since: 2024-09-18
     release: 83
     mergedPR: 7917
-    openPR: 386
-    closedIssue: 4416
-    openIssue: 712
+    openPR: 388
+    closedIssue: 4419
+    openIssue: 713
     commit: 4762
 total:
   release: 171
   mergedPR: 27242
-  openPR: 389
-  closedIssue: 15859
-  openIssue: 965
+  openPR: 391
+  closedIssue: 15862
+  openIssue: 966
   commit: 25520
 ---
 path: /home/runner/.x-repo/github.com/milvus-io/milvus
-collectedAt: 2026-09-08T03:24:18Z
+collectedAt: 2026-09-08T06:14:33Z
 loc:
   Go:
     code: 1244009
