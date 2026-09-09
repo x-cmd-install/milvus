@@ -2,121 +2,121 @@ about:
   description: "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
   license: Apache-2.0
   homepage: https://milvus.io
-  head: 82ccbec
+  head: b5f8ff4
   archived: false
-  latestVersion: "v2.6.23"
-  latestRelease: "v2.6.23"
+  latestVersion: "v3.0.1"
+  latestRelease: "v3.0.1"
   latestPrerelease: "client/v3.0.0-beta"
-  collectedAt: 2026-09-09T06:29:02Z
+  collectedAt: 2026-09-09T20:47:04Z
 timeline:
   created: 2019-09-16
   lastCommit: 2026-09-09
-  lastVersion: 2026-08-28
-  lastRelease: 2026-08-28
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
   lastPrerelease: 2026-07-19
 popularity:
-  star: 46029
+  star: 46036
   watcher: 340
   fork: 4238
-  release: 171
+  release: 172
   contributor: 343
-  pullRequest: 32621
-  issue: 16839
+  pullRequest: 32636
+  issue: 16852
 language:
-  Go: 43488783
-  C++: 14798154
-  Python: 14301863
-  Shell: 344436
+  Go: 43650408
+  C++: 15106555
+  Python: 14303485
+  Shell: 344594
   Groovy: 169975
-  C: 130960
+  C: 131924
   HTML: 125369
   CMake: 91734
   Dockerfile: 41942
-  Makefile: 41611
+  Makefile: 41732
   ANTLR: 10721
   Batchfile: 4555
   Assembly: 2644
-totalBytes: 73552747
+totalBytes: 74025638
 recent:
   last30d:
     since: 2026-08-10
-    release: 1
-    mergedPR: 366
-    openPR: 198
-    closedIssue: 59
-    openIssue: 215
-    commit: 270
+    release: 2
+    mergedPR: 379
+    openPR: 200
+    closedIssue: 61
+    openIssue: 226
+    commit: 283
   last60d:
     since: 2026-07-11
-    release: 6
-    mergedPR: 841
-    openPR: 299
-    closedIssue: 247
-    openIssue: 380
-    commit: 630
+    release: 7
+    mergedPR: 854
+    openPR: 301
+    closedIssue: 249
+    openIssue: 391
+    commit: 643
   last90d:
     since: 2026-06-11
-    release: 7
-    mergedPR: 1168
-    openPR: 355
-    closedIssue: 446
-    openIssue: 459
-    commit: 952
+    release: 8
+    mergedPR: 1182
+    openPR: 356
+    closedIssue: 448
+    openIssue: 470
+    commit: 965
   last180d:
     since: 2026-03-13
-    release: 18
-    mergedPR: 2290
-    openPR: 382
-    closedIssue: 1049
-    openIssue: 539
-    commit: 1825
+    release: 19
+    mergedPR: 2304
+    openPR: 383
+    closedIssue: 1051
+    openIssue: 550
+    commit: 1838
   last360d:
     since: 2025-09-14
-    release: 40
-    mergedPR: 4268
-    openPR: 396
-    closedIssue: 2072
-    openIssue: 598
-    commit: 3026
+    release: 41
+    mergedPR: 4282
+    openPR: 397
+    closedIssue: 2074
+    openIssue: 609
+    commit: 3039
   last720d:
     since: 2024-09-19
-    release: 83
-    mergedPR: 7922
-    openPR: 401
-    closedIssue: 4415
-    openIssue: 717
-    commit: 4762
+    release: 84
+    mergedPR: 7936
+    openPR: 402
+    closedIssue: 4416
+    openIssue: 729
+    commit: 4770
 total:
-  release: 171
-  mergedPR: 27255
-  openPR: 404
-  closedIssue: 15869
-  openIssue: 970
-  commit: 25526
+  release: 172
+  mergedPR: 27269
+  openPR: 405
+  closedIssue: 15870
+  openIssue: 982
+  commit: 25534
 ---
 path: /home/runner/.x-repo/github.com/milvus-io/milvus
-collectedAt: 2026-09-09T06:29:40Z
+collectedAt: 2026-09-09T20:47:47Z
 loc:
   Go:
-    code: 1244482
-    comments: 129552
-    blanks: 188536
-    files: 3665
+    code: 1247679
+    comments: 130215
+    blanks: 188865
+    files: 3675
   Python:
-    code: 291696
+    code: 291740
     comments: 17280
-    blanks: 32440
+    blanks: 32449
     files: 345
   Cpp:
-    code: 237835
-    comments: 20961
-    blanks: 30261
-    files: 459
+    code: 244445
+    comments: 21191
+    blanks: 30969
+    files: 468
   CHeader:
-    code: 80730
-    comments: 14872
-    blanks: 13226
-    files: 420
+    code: 80889
+    comments: 15110
+    blanks: 13321
+    files: 427
   Json:
     code: 23478
     comments: 0
@@ -138,7 +138,7 @@ loc:
     blanks: 286
     files: 167
   Sh:
-    code: 7147
+    code: 7153
     comments: 1783
     blanks: 1302
     files: 101
@@ -172,16 +172,16 @@ loc:
     comments: 234
     blanks: 207
     files: 22
+  Makefile:
+    code: 553
+    comments: 100
+    blanks: 127
+    files: 4
   CppHeader:
     code: 551
     comments: 32
     blanks: 88
     files: 7
-  Makefile:
-    code: 549
-    comments: 100
-    blanks: 126
-    files: 4
   Sql:
     code: 231
     comments: 23
@@ -244,8 +244,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 35420
-    blanks: 11779
+    comments: 35640
+    blanks: 11809
     files: 217
   Text:
     code: 0
@@ -253,10 +253,10 @@ loc:
     blanks: 28
     files: 22
 total:
-  code: 1945211
-  comments: 225946
-  blanks: 285674
-  files: 5647
+  code: 1955231
+  comments: 227297
+  blanks: 286846
+  files: 5673
 ---
 date: "2026-09-07"
 repo:
