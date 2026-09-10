@@ -12,35 +12,7 @@ Milvus is a high-performance, cloud-native vector database built for scalable ve
 x install milvus
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/milvus-io/milvus>
-- **Homepage**: <https://milvus.io>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v3.0.1` (2026-09-09)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 2
-
-## Popularity
-
-- **Stars**: 46,047 · **Forks**: 4,239 · **Open issues**: 16,864 · **Contributors**: 343
-
-## Totals (cumulative)
-
-- **Releases**: 172 · **Merged PRs**: 27286 · **Open PRs**: 412 · **Closed issues**: 15873 · **Open issues**: 991 · **Commits**: 25545
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 364 | 195 | 62 | 223 | 298 |
-| 90d | 2026-06-12 | 8 | 1190 | 362 | 443 | 478 | 980 |
-| 360d | 2025-09-15 | 41 | 4286 | 404 | 2073 | 616 | 3054 |
-
-## Code size
+## Code insight
 
 Total: **1,958,946** lines of code across **4960** files in the top 5 languages.
 
@@ -62,6 +34,37 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Security-Policy** (0/10) — security policy file not detected
 
+## Source
+
+- **Upstream**: <https://github.com/milvus-io/milvus>
+- **Homepage**: <https://milvus.io>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v3.0.1` (2026-09-09)
+- **Last commit**: 2026-09-10
+- **Assets in release**: 2
+
+## Popularity
+
+- **Stars**: 46,047 · **Forks**: 4,240 · **Open issues**: 16,864 · **Contributors**: 343
+
+## Totals (cumulative)
+
+- **Releases**: 172 · **Merged PRs**: 27286 · **Open PRs**: 413 · **Closed issues**: 15873 · **Open issues**: 991 · **Commits**: 25545
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 2 | 364 | 196 | 62 | 223 | 298 |
+| last60d | 2026-07-12 | 7 | 864 | 308 | 248 | 400 | 658 |
+| 90d | 2026-06-12 | 8 | 1190 | 363 | 443 | 478 | 980 |
+| last180d | 2026-03-14 | 18 | 2320 | 391 | 1053 | 559 | 1853 |
+| 360d | 2025-09-15 | 41 | 4286 | 405 | 2073 | 616 | 3054 |
+| last720d | 2024-09-20 | 84 | 7937 | 410 | 4401 | 737 | 4775 |
+
 ## Release assets
 
 | Asset | Size | Target |
@@ -78,4 +81,4 @@ Install metadata for milvus lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:31:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:35:15Z._
