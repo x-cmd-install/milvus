@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.0.1"
   latestRelease: "v3.0.1"
   latestPrerelease: "client/v3.0.0-beta"
-  collectedAt: 2026-09-10T18:30:41Z
+  collectedAt: 2026-09-10T23:34:23Z
 timeline:
   created: 2019-09-16
   lastCommit: 2026-09-10
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 46047
   watcher: 340
-  fork: 4239
+  fork: 4240
   release: 172
   contributor: 343
-  pullRequest: 32660
+  pullRequest: 32661
   issue: 16864
 language:
   Go: 43858363
@@ -42,7 +42,7 @@ recent:
     since: 2026-08-11
     release: 2
     mergedPR: 364
-    openPR: 195
+    openPR: 196
     closedIssue: 62
     openIssue: 223
     commit: 298
@@ -50,7 +50,7 @@ recent:
     since: 2026-07-12
     release: 7
     mergedPR: 864
-    openPR: 307
+    openPR: 308
     closedIssue: 248
     openIssue: 400
     commit: 658
@@ -58,7 +58,7 @@ recent:
     since: 2026-06-12
     release: 8
     mergedPR: 1190
-    openPR: 362
+    openPR: 363
     closedIssue: 443
     openIssue: 478
     commit: 980
@@ -66,7 +66,7 @@ recent:
     since: 2026-03-14
     release: 18
     mergedPR: 2320
-    openPR: 390
+    openPR: 391
     closedIssue: 1053
     openIssue: 559
     commit: 1853
@@ -74,7 +74,7 @@ recent:
     since: 2025-09-15
     release: 41
     mergedPR: 4286
-    openPR: 404
+    openPR: 405
     closedIssue: 2073
     openIssue: 616
     commit: 3054
@@ -82,20 +82,20 @@ recent:
     since: 2024-09-20
     release: 84
     mergedPR: 7937
-    openPR: 409
+    openPR: 410
     closedIssue: 4401
     openIssue: 737
     commit: 4775
 total:
   release: 172
   mergedPR: 27286
-  openPR: 412
+  openPR: 413
   closedIssue: 15873
   openIssue: 991
   commit: 25545
 ---
 path: /home/runner/.x-repo/github.com/milvus-io/milvus
-collectedAt: 2026-09-10T18:31:40Z
+collectedAt: 2026-09-10T23:35:08Z
 loc:
   Go:
     code: 1252864
