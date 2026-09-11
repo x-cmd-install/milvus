@@ -14,11 +14,11 @@ x install milvus
 
 ## Code insight
 
-Total: **1,959,632** lines of code across **4962** files in the top 5 languages.
+Total: **1,962,456** lines of code across **4962** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,253,352 | 131,034 | 189,676 | 3702 |
+| Go | 1,256,172 | 131,095 | 189,860 | 3702 |
 | Python | 291,740 | 17,280 | 32,449 | 345 |
 | Cpp | 248,479 | 21,345 | 31,379 | 473 |
 | CHeader | 82,034 | 15,256 | 13,456 | 429 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 46,056 · **Forks**: 4,242 · **Open issues**: 16,866 · **Contributors**: 343
+- **Stars**: 46,061 · **Forks**: 4,244 · **Open issues**: 16,870 · **Contributors**: 343
 
 ## Totals (cumulative)
 
-- **Releases**: 172 · **Merged PRs**: 27291 · **Open PRs**: 414 · **Closed issues**: 15874 · **Open issues**: 992 · **Commits**: 25549
+- **Releases**: 172 · **Merged PRs**: 27295 · **Open PRs**: 416 · **Closed issues**: 15875 · **Open issues**: 995 · **Commits**: 25552
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 354 | 194 | 61 | 218 | 302 |
-| last60d | 2026-07-13 | 7 | 851 | 306 | 237 | 400 | 662 |
-| 90d | 2026-06-13 | 8 | 1191 | 364 | 443 | 478 | 984 |
-| last180d | 2026-03-15 | 18 | 2321 | 392 | 1052 | 560 | 1857 |
-| 360d | 2025-09-16 | 41 | 4284 | 406 | 2067 | 616 | 3058 |
-| last720d | 2024-09-21 | 84 | 7942 | 411 | 4401 | 738 | 4773 |
+| 30d | 2026-08-12 | 2 | 357 | 197 | 62 | 221 | 305 |
+| last60d | 2026-07-13 | 7 | 854 | 309 | 238 | 403 | 665 |
+| 90d | 2026-06-13 | 8 | 1195 | 366 | 444 | 481 | 987 |
+| last180d | 2026-03-15 | 18 | 2325 | 394 | 1053 | 563 | 1860 |
+| 360d | 2025-09-16 | 41 | 4288 | 408 | 2068 | 619 | 3061 |
+| last720d | 2024-09-21 | 84 | 7946 | 413 | 4402 | 741 | 4776 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for milvus lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:20:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:47:54Z._
