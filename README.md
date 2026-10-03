@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 46,299 · **Forks**: 4,279 · **Open issues**: 17,054 · **Contributors**: 350
+- **Stars**: 46,309 · **Forks**: 4,279 · **Open issues**: 17,059 · **Contributors**: 350
 
 ## Totals (cumulative)
 
-- **Releases**: 176 · **Merged PRs**: 27547 · **Open PRs**: 380 · **Closed issues**: 16002 · **Open issues**: 1052 · **Commits**: 25687
+- **Releases**: 176 · **Merged PRs**: 27547 · **Open PRs**: 376 · **Closed issues**: 16036 · **Open issues**: 1023 · **Commits**: 25687
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 5 | 287 | 186 | 41 | 236 | 262 |
-| last60d | 2026-08-03 | 7 | 717 | 284 | 188 | 389 | 588 |
-| 90d | 2026-07-04 | 11 | 1225 | 324 | 413 | 501 | 963 |
-| last180d | 2026-04-05 | 20 | 2317 | 356 | 1024 | 624 | 1794 |
-| 360d | 2025-10-07 | 43 | 4426 | 372 | 2108 | 680 | 3161 |
-| last720d | 2024-10-12 | 86 | 8013 | 377 | 4392 | 795 | 4794 |
+| 30d | 2026-09-03 | 5 | 273 | 188 | 39 | 231 | 262 |
+| last60d | 2026-08-04 | 7 | 706 | 279 | 215 | 360 | 588 |
+| 90d | 2026-07-05 | 11 | 1223 | 320 | 443 | 472 | 963 |
+| last180d | 2026-04-06 | 20 | 2314 | 352 | 1053 | 595 | 1794 |
+| 360d | 2025-10-08 | 43 | 4425 | 368 | 2140 | 651 | 3161 |
+| last720d | 2024-10-13 | 85 | 8014 | 373 | 4426 | 766 | 4787 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for milvus lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:55:20Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:36:58Z._
