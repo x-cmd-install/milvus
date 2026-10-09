@@ -14,14 +14,14 @@ x install milvus
 
 ## Code insight
 
-Total: **2,111,908** lines of code across **5338** files in the top 5 languages.
+Total: **2,117,595** lines of code across **5350** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,355,490 | 154,950 | 199,261 | 4006 |
-| Python | 306,743 | 17,415 | 33,714 | 366 |
-| Cpp | 278,826 | 22,981 | 33,822 | 507 |
-| CHeader | 85,578 | 16,406 | 13,973 | 449 |
+| Go | 1,360,687 | 155,475 | 199,536 | 4018 |
+| Python | 306,738 | 17,415 | 33,714 | 366 |
+| Cpp | 279,234 | 22,992 | 33,842 | 507 |
+| CHeader | 85,640 | 16,407 | 13,978 | 449 |
 | Json | 23,607 | 0 | 0 | 10 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.6.25` (2026-09-29)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-09
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 46,337 · **Forks**: 4,282 · **Open issues**: 17,071 · **Contributors**: 351
+- **Stars**: 46,341 · **Forks**: 4,285 · **Open issues**: 17,078 · **Contributors**: 351
 
 ## Totals (cumulative)
 
-- **Releases**: 176 · **Merged PRs**: 27564 · **Open PRs**: 413 · **Closed issues**: 16048 · **Open issues**: 1023 · **Commits**: 25699
+- **Releases**: 176 · **Merged PRs**: 27583 · **Open PRs**: 392 · **Closed issues**: 16056 · **Open issues**: 1022 · **Commits**: 25708
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 5 | 230 | 207 | 30 | 206 | 210 |
-| last60d | 2026-08-09 | 6 | 672 | 308 | 182 | 333 | 526 |
-| 90d | 2026-07-10 | 11 | 1150 | 352 | 405 | 456 | 898 |
-| last180d | 2026-04-11 | 19 | 2238 | 386 | 1025 | 592 | 1732 |
-| 360d | 2025-10-13 | 42 | 4355 | 405 | 2121 | 649 | 3116 |
-| last720d | 2024-10-18 | 84 | 7941 | 410 | 4378 | 764 | 4741 |
+| 30d | 2026-09-09 | 5 | 232 | 183 | 28 | 199 | 220 |
+| last60d | 2026-08-10 | 6 | 677 | 283 | 185 | 328 | 536 |
+| 90d | 2026-07-11 | 11 | 1163 | 331 | 411 | 455 | 908 |
+| last180d | 2026-04-12 | 19 | 2255 | 365 | 1031 | 590 | 1742 |
+| 360d | 2025-10-14 | 41 | 4355 | 384 | 2121 | 648 | 3126 |
+| last720d | 2024-10-19 | 84 | 7960 | 389 | 4384 | 763 | 4740 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for milvus lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:30:49Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:26:05Z._
