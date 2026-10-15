@@ -14,14 +14,14 @@ x install milvus
 
 ## 代码洞察
 
-合计: **2,181,409** 行代码（覆盖前 5 种语言、共 **5709** 个文件）。
+合计: **2,191,309** 行代码（覆盖前 5 种语言、共 **5720** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 1,384,240 | 159,245 | 202,064 | 4116 |
-| Python | 311,389 | 17,849 | 34,249 | 395 |
-| Cpp | 305,718 | 24,476 | 34,087 | 629 |
-| CHeader | 91,952 | 19,627 | 15,279 | 559 |
+| Go | 1,385,157 | 159,340 | 202,116 | 4120 |
+| Cpp | 313,983 | 24,651 | 34,684 | 633 |
+| Python | 311,408 | 17,849 | 34,249 | 395 |
+| CHeader | 92,614 | 19,701 | 15,411 | 562 |
 | Json | 23,607 | 0 | 0 | 10 |
 
 ## OpenSSF Scorecard 评分
@@ -42,35 +42,35 @@ x install milvus
 
 ## 发布
 
-- **最新版本**: `v2.6.25` (2026-09-29)
-- **最近提交**: 2026-10-14
+- **最新版本**: `v3.0.3` (2026-10-14)
+- **最近提交**: 2026-10-15
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 46,379 · **Fork**: 4,295 · **开放 issue**: 17,132 · **贡献者**: 351
+- **Star**: 46,383 · **Fork**: 4,300 · **开放 issue**: 17,140 · **贡献者**: 352
 
 ## 累计统计
 
-- **发布数**: 176 · **已合并 PR**: 27670 · **开放 PR**: 400 · **已关闭 issue**: 16121 · **开放 issue**: 1011 · **提交数**: 25754
+- **发布数**: 177 · **已合并 PR**: 27691 · **开放 PR**: 411 · **已关闭 issue**: 16124 · **开放 issue**: 1016 · **提交数**: 25763
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 4 | 266 | 206 | 34 | 206 | 198 |
-| last60d | 2026-08-15 | 6 | 684 | 289 | 215 | 309 | 536 |
-| 90d | 2026-07-16 | 10 | 1142 | 336 | 420 | 431 | 878 |
-| last180d | 2026-04-17 | 19 | 2228 | 372 | 1056 | 577 | 1725 |
-| 360d | 2025-10-19 | 41 | 4388 | 392 | 2154 | 637 | 3126 |
-| last720d | 2024-10-24 | 84 | 7985 | 397 | 4418 | 748 | 4759 |
+| 30d | 2026-09-15 | 5 | 261 | 211 | 35 | 205 | 213 |
+| last60d | 2026-08-16 | 7 | 700 | 302 | 218 | 314 | 551 |
+| 90d | 2026-07-17 | 11 | 1115 | 345 | 413 | 426 | 893 |
+| last180d | 2026-04-18 | 19 | 2243 | 383 | 1056 | 582 | 1740 |
+| 360d | 2025-10-20 | 42 | 4387 | 403 | 2147 | 642 | 3141 |
+| last720d | 2024-10-25 | 85 | 7989 | 408 | 4404 | 753 | 4756 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [milvus-standalone-docker-compose-gpu.yaml](https://github.com/milvus-io/milvus/releases/download/v3.0.2/milvus-standalone-docker-compose-gpu.yaml) | 2.7 KiB | `other` |
-| [milvus-standalone-docker-compose.yaml](https://github.com/milvus-io/milvus/releases/download/v3.0.2/milvus-standalone-docker-compose.yaml) | 2.7 KiB | `other` |
+| [milvus-standalone-docker-compose-gpu.yaml](https://github.com/milvus-io/milvus/releases/download/v3.0.3/milvus-standalone-docker-compose-gpu.yaml) | 2.7 KiB | `other` |
+| [milvus-standalone-docker-compose.yaml](https://github.com/milvus-io/milvus/releases/download/v3.0.3/milvus-standalone-docker-compose.yaml) | 2.7 KiB | `other` |
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ milvus 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T06:19:32Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T05:56:36Z._
