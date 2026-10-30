@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2717,
       "digest": "sha256:570ad0050e3462f207b35a5eb8ec282dc3f133ae21c6ebb27904c0737aea9c14",
-      "download_count": 12,
+      "download_count": 15,
       "created_at": "2026-10-26T06:53:48Z",
       "updated_at": "2026-10-26T06:53:49Z",
       "browser_download_url": "https://github.com/milvus-io/milvus/releases/download/v3.0.4/milvus-standalone-docker-compose-gpu.yaml"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2738,
       "digest": "sha256:0457fc7d19784e2d9e320b21a08f24419cd7343f2fa855485112d9ad8d7e2b78",
-      "download_count": 142,
+      "download_count": 182,
       "created_at": "2026-10-26T06:53:49Z",
       "updated_at": "2026-10-26T06:53:50Z",
       "browser_download_url": "https://github.com/milvus-io/milvus/releases/download/v3.0.4/milvus-standalone-docker-compose.yaml"
