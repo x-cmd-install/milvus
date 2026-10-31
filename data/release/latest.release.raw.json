@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/milvus-io/milvus/releases/423933278",
-  "assets_url": "https://api.github.com/repos/milvus-io/milvus/releases/423933278/assets",
-  "upload_url": "https://uploads.github.com/repos/milvus-io/milvus/releases/423933278/assets{?name,label}",
-  "html_url": "https://github.com/milvus-io/milvus/releases/tag/v3.0.4",
-  "id": 423933278,
+  "url": "https://api.github.com/repos/milvus-io/milvus/releases/428912974",
+  "assets_url": "https://api.github.com/repos/milvus-io/milvus/releases/428912974/assets",
+  "upload_url": "https://uploads.github.com/repos/milvus-io/milvus/releases/428912974/assets{?name,label}",
+  "html_url": "https://github.com/milvus-io/milvus/releases/tag/v3.0.5",
+  "id": 428912974,
   "author": {
     "login": "yanliang567",
     "id": 82361606,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDODHDyxM4ZRLVe",
-  "tag_name": "v3.0.4",
+  "node_id": "RE_kwDODHDyxM4ZkLFO",
+  "tag_name": "v3.0.5",
   "target_commitish": "master",
-  "name": "milvus-3.0.4",
+  "name": "milvus-3.0.5",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-23T07:53:54Z",
-  "updated_at": "2026-10-26T06:53:52Z",
-  "published_at": "2026-10-26T06:53:52Z",
+  "created_at": "2026-10-29T14:24:07Z",
+  "updated_at": "2026-10-30T10:43:28Z",
+  "published_at": "2026-10-30T10:43:28Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/milvus-io/milvus/releases/assets/677290870",
-      "id": 677290870,
-      "node_id": "RA_kwDODHDyxM4oXqN2",
+      "url": "https://api.github.com/repos/milvus-io/milvus/releases/assets/691782845",
+      "id": 691782845,
+      "node_id": "RA_kwDODHDyxM4pO8S9",
       "name": "milvus-standalone-docker-compose-gpu.yaml",
       "label": null,
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/x-yaml",
       "state": "uploaded",
       "size": 2717,
-      "digest": "sha256:570ad0050e3462f207b35a5eb8ec282dc3f133ae21c6ebb27904c0737aea9c14",
-      "download_count": 15,
-      "created_at": "2026-10-26T06:53:48Z",
-      "updated_at": "2026-10-26T06:53:49Z",
-      "browser_download_url": "https://github.com/milvus-io/milvus/releases/download/v3.0.4/milvus-standalone-docker-compose-gpu.yaml"
+      "digest": "sha256:74405c4d9ff75d6c5e6c7611333d241b2d28b99f075f4e19d30eb10d7cef4180",
+      "download_count": 7,
+      "created_at": "2026-10-30T10:43:20Z",
+      "updated_at": "2026-10-30T10:43:22Z",
+      "browser_download_url": "https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus-standalone-docker-compose-gpu.yaml"
     },
     {
-      "url": "https://api.github.com/repos/milvus-io/milvus/releases/assets/677290887",
-      "id": 677290887,
-      "node_id": "RA_kwDODHDyxM4oXqOH",
+      "url": "https://api.github.com/repos/milvus-io/milvus/releases/assets/691782910",
+      "id": 691782910,
+      "node_id": "RA_kwDODHDyxM4pO8T-",
       "name": "milvus-standalone-docker-compose.yaml",
       "label": null,
       "uploader": {
@@ -102,14 +102,14 @@
       "content_type": "application/x-yaml",
       "state": "uploaded",
       "size": 2738,
-      "digest": "sha256:0457fc7d19784e2d9e320b21a08f24419cd7343f2fa855485112d9ad8d7e2b78",
-      "download_count": 182,
-      "created_at": "2026-10-26T06:53:49Z",
-      "updated_at": "2026-10-26T06:53:50Z",
-      "browser_download_url": "https://github.com/milvus-io/milvus/releases/download/v3.0.4/milvus-standalone-docker-compose.yaml"
+      "digest": "sha256:e39a9bf367feab93c6c2d70f4aec3d64b16018e6bc64c9db475485499990a8e8",
+      "download_count": 12,
+      "created_at": "2026-10-30T10:43:22Z",
+      "updated_at": "2026-10-30T10:43:22Z",
+      "browser_download_url": "https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus-standalone-docker-compose.yaml"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/v3.0.4",
-  "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/v3.0.4",
+  "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/v3.0.5",
+  "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/v3.0.5",
   "body": "Release note is coming soon..."
 }
