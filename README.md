@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.0.5` (2026-10-30)
-- **Last commit**: 2026-11-07
+- **Last commit**: 2026-11-08
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 46,612 · **Forks**: 4,326 · **Open issues**: 17,415 · **Contributors**: 363
+- **Stars**: 46,612 · **Forks**: 4,324 · **Open issues**: 17,417 · **Contributors**: 363
 
 ## Totals (cumulative)
 
-- **Releases**: 180 · **Merged PRs**: 28178 · **Open PRs**: 420 · **Closed issues**: 16267 · **Open issues**: 1148 · **Commits**: 26040
+- **Releases**: 180 · **Merged PRs**: 28179 · **Open PRs**: 393 · **Closed issues**: 16364 · **Open issues**: 1053 · **Commits**: 26041
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 4 | 513 | 241 | 72 | 272 | 433 |
-| last60d | 2026-09-08 | 9 | 821 | 305 | 162 | 423 | 678 |
-| 90d | 2026-08-09 | 10 | 1276 | 342 | 379 | 484 | 1008 |
-| last180d | 2026-05-11 | 20 | 2437 | 390 | 1048 | 713 | 1902 |
-| 360d | 2025-11-12 | 40 | 4572 | 411 | 2143 | 773 | 3363 |
-| last720d | 2024-11-17 | 86 | 8190 | 416 | 4393 | 881 | 4820 |
+| 30d | 2026-10-09 | 4 | 494 | 238 | 65 | 267 | 347 |
+| last60d | 2026-09-09 | 9 | 803 | 291 | 178 | 392 | 592 |
+| 90d | 2026-08-10 | 10 | 1263 | 322 | 409 | 447 | 931 |
+| last180d | 2026-05-12 | 20 | 2413 | 364 | 1127 | 625 | 1837 |
+| 360d | 2025-11-13 | 40 | 4559 | 384 | 2230 | 678 | 3333 |
+| last720d | 2024-11-18 | 86 | 8170 | 389 | 4481 | 786 | 4821 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for milvus lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:25:34Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:25:31Z._
