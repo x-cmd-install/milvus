@@ -14,14 +14,14 @@ x install milvus
 
 ## Code insight
 
-Total: **2,504,238** lines of code across **7054** files in the top 5 languages.
+Total: **2,510,644** lines of code across **7067** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,632,590 | 188,541 | 223,209 | 5390 |
-| Cpp | 356,662 | 26,368 | 36,711 | 654 |
-| Python | 324,737 | 18,173 | 35,508 | 423 |
-| CHeader | 96,675 | 20,789 | 15,973 | 577 |
+| Go | 1,637,408 | 188,928 | 223,549 | 5402 |
+| Cpp | 357,572 | 26,399 | 36,766 | 655 |
+| Python | 325,382 | 18,181 | 35,540 | 423 |
+| CHeader | 96,704 | 20,797 | 15,982 | 577 |
 | Json | 23,637 | 0 | 0 | 10 |
 
 ## OpenSSF Scorecard
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.0.5` (2026-10-30)
-- **Last commit**: 2026-11-08
-- **Assets in release**: 2
+- **Latest**: `v2.6.27` (2026-11-10)
+- **Last commit**: 2026-11-10
+- **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 46,612 · **Forks**: 4,324 · **Open issues**: 17,417 · **Contributors**: 363
+- **Stars**: 46,629 · **Forks**: 4,324 · **Open issues**: 17,452 · **Contributors**: 363
 
 ## Totals (cumulative)
 
-- **Releases**: 180 · **Merged PRs**: 28179 · **Open PRs**: 393 · **Closed issues**: 16364 · **Open issues**: 1053 · **Commits**: 26041
+- **Releases**: 181 · **Merged PRs**: 28228 · **Open PRs**: 401 · **Closed issues**: 16382 · **Open issues**: 1070 · **Commits**: 26064
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 4 | 494 | 238 | 65 | 267 | 347 |
-| last60d | 2026-09-09 | 9 | 803 | 291 | 178 | 392 | 592 |
-| 90d | 2026-08-10 | 10 | 1263 | 322 | 409 | 447 | 931 |
-| last180d | 2026-05-12 | 20 | 2413 | 364 | 1127 | 625 | 1837 |
-| 360d | 2025-11-13 | 40 | 4559 | 384 | 2230 | 678 | 3333 |
-| last720d | 2024-11-18 | 86 | 8170 | 389 | 4481 | 786 | 4821 |
+| 30d | 2026-10-11 | 5 | 523 | 255 | 70 | 287 | 375 |
+| last60d | 2026-09-11 | 9 | 821 | 303 | 180 | 407 | 620 |
+| 90d | 2026-08-12 | 11 | 1263 | 333 | 407 | 462 | 959 |
+| last180d | 2026-05-14 | 21 | 2422 | 373 | 1126 | 642 | 1865 |
+| 360d | 2025-11-15 | 41 | 4596 | 392 | 2231 | 695 | 3361 |
+| last720d | 2024-11-20 | 87 | 8188 | 397 | 4475 | 803 | 4812 |
 
 ## Release assets
 
@@ -71,6 +71,10 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [milvus-standalone-docker-compose-gpu.yaml](https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus-standalone-docker-compose-gpu.yaml) | 2.7 KiB | `other` |
 | [milvus-standalone-docker-compose.yaml](https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus-standalone-docker-compose.yaml) | 2.7 KiB | `other` |
+| [milvus_3.0.5-2_amd64.deb](https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus_3.0.5-2_amd64.deb) | 358.0 MiB | `runtime/deb/amd64` |
+| [milvus_3.0.5-2_amd64.rpm](https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus_3.0.5-2_amd64.rpm) | 414.7 MiB | `other` |
+| [milvus_3.0.5-2_arm64.deb](https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus_3.0.5-2_arm64.deb) | 342.2 MiB | `runtime/deb/arm64` |
+| [milvus_3.0.5-2_arm64.rpm](https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus_3.0.5-2_arm64.rpm) | 396.9 MiB | `other` |
 
 ## Improve this data
 
@@ -81,4 +85,4 @@ Install metadata for milvus lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:25:31Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T09:11:59Z._
