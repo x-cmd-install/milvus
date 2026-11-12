@@ -14,14 +14,14 @@ x install milvus
 
 ## Code insight
 
-Total: **2,524,419** lines of code across **7108** files in the top 5 languages.
+Total: **2,524,439** lines of code across **7100** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,641,055 | 189,430 | 223,823 | 5425 |
-| Cpp | 360,379 | 26,425 | 36,909 | 656 |
-| Python | 332,670 | 18,513 | 35,930 | 438 |
-| CHeader | 96,841 | 20,831 | 16,003 | 579 |
+| Go | 1,640,286 | 189,216 | 223,154 | 5416 |
+| Cpp | 360,957 | 26,472 | 36,948 | 657 |
+| Python | 332,702 | 18,521 | 35,936 | 438 |
+| CHeader | 96,861 | 20,833 | 16,003 | 579 |
 | Json | 23,534 | 0 | 0 | 10 |
 
 ## OpenSSF Scorecard
@@ -42,39 +42,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.6.27` (2026-11-10)
-- **Last commit**: 2026-11-11
-- **Assets in release**: 6
+- **Latest**: `v3.0.6` (2026-11-11)
+- **Last commit**: 2026-11-12
+- **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 46,638 · **Forks**: 4,326 · **Open issues**: 17,459 · **Contributors**: 363
+- **Stars**: 46,648 · **Forks**: 4,327 · **Open issues**: 17,471 · **Contributors**: 366
 
 ## Totals (cumulative)
 
-- **Releases**: 181 · **Merged PRs**: 28261 · **Open PRs**: 403 · **Closed issues**: 16386 · **Open issues**: 1073 · **Commits**: 26084
+- **Releases**: 182 · **Merged PRs**: 28306 · **Open PRs**: 388 · **Closed issues**: 16394 · **Open issues**: 1077 · **Commits**: 26112
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 5 | 529 | 250 | 69 | 276 | 403 |
-| last60d | 2026-09-12 | 9 | 847 | 307 | 178 | 409 | 648 |
-| 90d | 2026-08-13 | 11 | 1273 | 333 | 400 | 465 | 987 |
-| last180d | 2026-05-15 | 20 | 2440 | 375 | 1116 | 646 | 1893 |
-| 360d | 2025-11-16 | 41 | 4629 | 394 | 2235 | 698 | 3389 |
-| last720d | 2024-11-21 | 86 | 8186 | 399 | 4466 | 806 | 4826 |
+| 30d | 2026-10-13 | 6 | 555 | 228 | 73 | 278 | 438 |
+| last60d | 2026-09-13 | 10 | 891 | 292 | 183 | 409 | 683 |
+| 90d | 2026-08-14 | 12 | 1312 | 318 | 403 | 468 | 1022 |
+| last180d | 2026-05-16 | 21 | 2483 | 360 | 1120 | 650 | 1928 |
+| 360d | 2025-11-17 | 42 | 4652 | 379 | 2236 | 702 | 3424 |
+| last720d | 2024-11-22 | 87 | 8208 | 384 | 4466 | 810 | 4839 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [milvus-standalone-docker-compose-gpu.yaml](https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus-standalone-docker-compose-gpu.yaml) | 2.7 KiB | `other` |
-| [milvus-standalone-docker-compose.yaml](https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus-standalone-docker-compose.yaml) | 2.7 KiB | `other` |
-| [milvus_3.0.5-2_amd64.deb](https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus_3.0.5-2_amd64.deb) | 358.0 MiB | `runtime/deb/amd64` |
-| [milvus_3.0.5-2_amd64.rpm](https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus_3.0.5-2_amd64.rpm) | 414.7 MiB | `other` |
-| [milvus_3.0.5-2_arm64.deb](https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus_3.0.5-2_arm64.deb) | 342.2 MiB | `runtime/deb/arm64` |
-| [milvus_3.0.5-2_arm64.rpm](https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus_3.0.5-2_arm64.rpm) | 396.9 MiB | `other` |
+| [milvus-standalone-docker-compose-gpu.yaml](https://github.com/milvus-io/milvus/releases/download/v3.0.6/milvus-standalone-docker-compose-gpu.yaml) | 2.7 KiB | `other` |
+| [milvus-standalone-docker-compose.yaml](https://github.com/milvus-io/milvus/releases/download/v3.0.6/milvus-standalone-docker-compose.yaml) | 2.7 KiB | `other` |
 
 ## Improve this data
 
@@ -85,4 +81,4 @@ Install metadata for milvus lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:55:04Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T09:15:35Z._
