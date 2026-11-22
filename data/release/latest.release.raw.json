@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2738,
       "digest": "sha256:73b90b75254bd81925f38154f1fb3d911ada66614540911627ed06baa6cd786e",
-      "download_count": 536,
+      "download_count": 572,
       "created_at": "2026-11-11T08:06:16Z",
       "updated_at": "2026-11-11T08:06:17Z",
       "browser_download_url": "https://github.com/milvus-io/milvus/releases/download/v3.0.6/milvus-standalone-docker-compose.yaml"
