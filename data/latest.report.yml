@@ -2,33 +2,33 @@ about:
   description: "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
   license: Apache-2.0
   homepage: https://milvus.io
-  head: 8425467
+  head: 7523e7c
   archived: false
   latestVersion: "client/v3.0.1"
   latestRelease: "client/v3.0.1"
   latestPrerelease: "client/v3.0.0-beta"
-  collectedAt: 2026-11-27T09:24:49Z
+  collectedAt: 2026-11-28T09:32:30Z
 timeline:
   created: 2019-09-16
-  lastCommit: 2026-11-27
+  lastCommit: 2026-11-28
   lastVersion: 2026-11-23
   lastRelease: 2026-11-23
   lastPrerelease: 2026-07-19
 popularity:
-  star: 46750
+  star: 46754
   watcher: 338
   fork: 4350
   release: 183
   contributor: 376
-  pullRequest: 34564
-  issue: 17688
+  pullRequest: 34576
+  issue: 17690
 language:
-  Go: 65443041
-  C++: 21695568
-  Python: 16990235
+  Go: 65691257
+  C++: 21703463
+  Python: 16992706
   Shell: 412345
   Groovy: 169460
-  C: 142743
+  C: 143852
   CMake: 130503
   HTML: 125369
   Dockerfile: 51496
@@ -37,86 +37,86 @@ language:
   ANTLR: 11355
   Batchfile: 4556
   Assembly: 2644
-totalBytes: 105245234
+totalBytes: 105504925
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 4
-    mergedPR: 528
-    openPR: 316
-    closedIssue: 111
-    openIssue: 292
-    commit: 465
+    mergedPR: 513
+    openPR: 311
+    closedIssue: 108
+    openIssue: 285
+    commit: 475
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 8
-    mergedPR: 975
-    openPR: 409
-    closedIssue: 227
-    openIssue: 426
-    commit: 784
+    mergedPR: 976
+    openPR: 410
+    closedIssue: 229
+    openIssue: 422
+    commit: 794
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 12
-    mergedPR: 1345
-    openPR: 439
-    closedIssue: 438
-    openIssue: 515
-    commit: 1101
+    mergedPR: 1355
+    openPR: 440
+    closedIssue: 440
+    openIssue: 513
+    commit: 1111
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 20
     mergedPR: 2606
-    openPR: 483
-    closedIssue: 1189
-    openIssue: 683
-    commit: 2057
+    openPR: 484
+    closedIssue: 1185
+    openIssue: 682
+    commit: 2067
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 40
-    mergedPR: 4736
-    openPR: 503
-    closedIssue: 2336
-    openIssue: 724
-    commit: 3555
+    mergedPR: 4725
+    openPR: 504
+    closedIssue: 2331
+    openIssue: 723
+    commit: 3565
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 86
-    mergedPR: 8313
-    openPR: 508
-    closedIssue: 4588
-    openIssue: 815
-    commit: 4894
+    mergedPR: 8324
+    openPR: 509
+    closedIssue: 4590
+    openIssue: 814
+    commit: 4902
 total:
   release: 183
-  mergedPR: 28581
-  openPR: 512
-  closedIssue: 16636
-  openIssue: 1052
-  commit: 26285
+  mergedPR: 28592
+  openPR: 513
+  closedIssue: 16639
+  openIssue: 1051
+  commit: 26294
 ---
 path: /home/runner/.x-repo/github.com/milvus-io/milvus
-collectedAt: 2026-11-27T09:25:31Z
+collectedAt: 2026-11-28T09:33:10Z
 loc:
   Go:
-    code: 1715555
-    comments: 196177
-    blanks: 227872
-    files: 5666
+    code: 1721463
+    comments: 196514
+    blanks: 228286
+    files: 5685
   Cpp:
-    code: 370254
-    comments: 26320
-    blanks: 36746
+    code: 370418
+    comments: 26321
+    blanks: 36757
     files: 644
   Python:
-    code: 345031
+    code: 345083
     comments: 18729
-    blanks: 36812
+    blanks: 36819
     files: 468
   CHeader:
-    code: 96190
-    comments: 20674
-    blanks: 15888
+    code: 96227
+    comments: 20676
+    blanks: 15895
     files: 569
   Json:
     code: 25025
@@ -134,7 +134,7 @@ loc:
     blanks: 3194
     files: 5
   Yaml:
-    code: 9206
+    code: 9208
     comments: 913
     blanks: 294
     files: 168
@@ -144,9 +144,9 @@ loc:
     blanks: 1434
     files: 114
   Protobuf:
-    code: 7207
-    comments: 1695
-    blanks: 1264
+    code: 7219
+    comments: 1702
+    blanks: 1265
     files: 24
   Groovy:
     code: 2996
@@ -250,8 +250,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 81027
-    blanks: 21499
+    comments: 81093
+    blanks: 21508
     files: 362
   Text:
     code: 0
@@ -259,10 +259,10 @@ loc:
     blanks: 28
     files: 23
 total:
-  code: 2632674
-  comments: 352804
-  blanks: 349476
-  files: 8312
+  code: 2638849
+  comments: 353217
+  blanks: 349925
+  files: 8331
 ---
 date: "2026-11-02"
 repo:
@@ -552,4 +552,4 @@ checks:
       - 'Info:   6 out of  16 goCommand dependencies pinned'
       - 'Info:   0 out of  20 pipCommand dependencies pinned'
 ---
-{"id":441392162,"author":{"login":"yanliang567","id":82361606,"node_id":"MDQ6VXNlcjgyMzYxNjA2","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDODHDyxM4aTxwi","tag_name":"v3.0.6","target_commitish":"master","name":"milvus-3.0.6","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-10T08:14:02Z","updated_at":"2026-11-11T08:06:25Z","published_at":"2026-11-11T08:06:25Z","assets":[{"id":734684402,"node_id":"RA_kwDODHDyxM4rymTy","name":"milvus-standalone-docker-compose-gpu.yaml","label":null,"uploader":{"login":"yanliang567","id":82361606,"node_id":"MDQ6VXNlcjgyMzYxNjA2","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-yaml","state":"uploaded","size":2717,"digest":"sha256:015d216d446a8f3e38369dcd37c4aad7836f68cbc85671ab29893774abb27a2f","download_count":83,"created_at":"2026-11-11T08:06:15Z","updated_at":"2026-11-11T08:06:16Z"},{"id":734684492,"node_id":"RA_kwDODHDyxM4rymVM","name":"milvus-standalone-docker-compose.yaml","label":null,"uploader":{"login":"yanliang567","id":82361606,"node_id":"MDQ6VXNlcjgyMzYxNjA2","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-yaml","state":"uploaded","size":2738,"digest":"sha256:73b90b75254bd81925f38154f1fb3d911ada66614540911627ed06baa6cd786e","download_count":852,"created_at":"2026-11-11T08:06:16Z","updated_at":"2026-11-11T08:06:17Z"}],"body":"Release note is coming soon...","reactions":{"total_count":1,"+1":0,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":1,"rocket":0,"eyes":0}}
+{"id":441392162,"author":{"login":"yanliang567","id":82361606,"node_id":"MDQ6VXNlcjgyMzYxNjA2","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDODHDyxM4aTxwi","tag_name":"v3.0.6","target_commitish":"master","name":"milvus-3.0.6","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-10T08:14:02Z","updated_at":"2026-11-11T08:06:25Z","published_at":"2026-11-11T08:06:25Z","assets":[{"id":734684402,"node_id":"RA_kwDODHDyxM4rymTy","name":"milvus-standalone-docker-compose-gpu.yaml","label":null,"uploader":{"login":"yanliang567","id":82361606,"node_id":"MDQ6VXNlcjgyMzYxNjA2","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-yaml","state":"uploaded","size":2717,"digest":"sha256:015d216d446a8f3e38369dcd37c4aad7836f68cbc85671ab29893774abb27a2f","download_count":88,"created_at":"2026-11-11T08:06:15Z","updated_at":"2026-11-11T08:06:16Z"},{"id":734684492,"node_id":"RA_kwDODHDyxM4rymVM","name":"milvus-standalone-docker-compose.yaml","label":null,"uploader":{"login":"yanliang567","id":82361606,"node_id":"MDQ6VXNlcjgyMzYxNjA2","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-yaml","state":"uploaded","size":2738,"digest":"sha256:73b90b75254bd81925f38154f1fb3d911ada66614540911627ed06baa6cd786e","download_count":879,"created_at":"2026-11-11T08:06:16Z","updated_at":"2026-11-11T08:06:17Z"}],"body":"Release note is coming soon...","reactions":{"total_count":2,"+1":0,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":2,"rocket":0,"eyes":0}}
